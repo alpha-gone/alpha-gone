@@ -10,7 +10,7 @@
                     자료구조 | Python | 운영체제
             2학년 : Java | JSP | Android | 정보시스템 분석·설계 | AI 개론 | 캡스톤 디자인(기획 · 설계) 
                     DB 모델링(ERD) | Python | 빅데이터(이론) | C#
-            3학년 : Linux | ERP | UML | 자료구조와 알고리즘 | 캡스톤 디자인(구현)|
+            3학년 : Linux | ERP | UML | 자료구조와 알고리즘 | 캡스톤 디자인(구현)
                     빅데이터(Numpy, Matplotlib, Pandas, Sklearn)
    ```
 
