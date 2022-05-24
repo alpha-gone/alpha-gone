@@ -15,7 +15,7 @@
 ## 🪄 Skills
 |Grade|Name|
 |--|--|
-|INTERMEDIATE|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br><img src="https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/><br><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>|
+|INTERMEDIATE|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br><img src="https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/><br><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><br><img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>|
 |BEGINNER|<img src="https://img.shields.io/badge/SPRING%20BOOT-3DDC84?style=flat-square&logo=SpringBoot&logoColor=white"/>|
 
 ## 🌱 현재 공부 중
