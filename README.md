@@ -29,7 +29,7 @@
 |Name|Type|Tech|DESC|
 |:---:|:---:|:---:|:---:|
 |[Daelimi_Android](https://github.com/Alpha-gone/Daelimi_Android)|Team Project|Java, Android|대림대학 FAQ 챗봇 안드로이드 앱|
-|[WindowsPackageRemover](https://github.com/Alpha-gone/WindowsPackageRemover)|Toy Project|C#, .Net|파워쉘 명령어를 통한 패키지 삭제 프로그램|
+|[WindowsPackageRemover](https://github.com/Alpha-gone/WindowsPackageRemover)|Toy Project|C#, .Net|파워쉘 명\령어를 통한 패키지 삭제 프로그램|
 
 <br>
 
@@ -38,8 +38,7 @@
 
 ## 📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Alpha-gone&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-gone&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-gone&hide=javascript,html,css&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 <!--
 **alpha-gone/alpha-gone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
