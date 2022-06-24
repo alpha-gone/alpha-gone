@@ -29,7 +29,7 @@
 |Name|Type|Tech|DESC|
 |:---:|:---:|:---:|:---:|
 |[Daelimi_Android](https://github.com/Alpha-gone/Daelimi_Android)|Team Project|Java, Android|대림대학 FAQ 챗봇 안드로이드 앱|
-|[WindowsPackageRemover](https://github.com/Alpha-gone/WindowsPackageRemover)|Toy Project|C#, .Net|파워쉘 명\령어를 통한 패키지 삭제 프로그램|
+|[WindowsPackageRemover](https://github.com/Alpha-gone/WindowsPackageRemover)|Toy Project|C#, .Net|파워쉘 명령어를 통한 패키지 삭제 프로그램|
 
 <br>
 
