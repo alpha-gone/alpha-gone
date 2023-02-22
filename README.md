@@ -9,7 +9,6 @@
 |2학년|Java / JSP / Android / 정보시스템 분석·설계 / AI 개론 <br> 캡스톤 디자인(기획 · 설계) / DB 모델링(ERD) / Python / 빅데이터(이론) / C#|
 |3학년|Linux / ERP / UML / 자료구조와 알고리즘 / 캡스톤 디자인(구현) / IOT 프로그래밍 <br> 빅데이터(Numpy, MatPloblib, Pandas, Sklean등) / 블록체인 / 임베디드 프로그래밍/ 소프트웨어 공학/ 컴퓨터 네트워크|
 
-
 <br>
 
 ## 🪄 Skills
@@ -17,13 +16,16 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-3776AB?style=flat-square&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+<br>
 <img src="https://img.shields.io/badge/SpringBoot-3DDC84?style=flat-square&logo=SpringBoot&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQl&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Asciidoctor-E40046?style=flat-square&logo=Asciidoctor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQl&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Asciidoctor-E40046?style=flat-square&logo=Asciidoctor&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
+
+<br>
 
 ## 🌱 현재 공부 중
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
